@@ -1,1 +1,8 @@
 This is a new file for Pull
+
+if you delete a local package
+but it's still on GitHub
+
+Git ==> Uncommitted Changes ==> Shelve Changes
+Will return LOCAL files
+
